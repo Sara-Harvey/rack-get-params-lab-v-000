@@ -26,6 +26,7 @@ class Application
 
     elsif req.path.match(/add/)
       item_to_add = req.params["item"]
+      if 
 
         
     else
